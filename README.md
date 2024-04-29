@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: Jeevitha E N</h3>
+<h3>Name: JEEVITHA.E</h3>
 <h3>Register Number: 212222230054 </h3>
 <H3>Aim:</H3>
 <p>
